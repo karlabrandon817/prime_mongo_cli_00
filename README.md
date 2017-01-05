@@ -1,5 +1,6 @@
 # Prime Mongo Solo Challenge
 
+First attempt at using MongoDB...
 Now that you've learned some of the basics of querying MongoDB via the mongo shell, use that information to query a collection of bios.
 
 
